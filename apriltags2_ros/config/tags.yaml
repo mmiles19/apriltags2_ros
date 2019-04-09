@@ -16,6 +16,21 @@ standalone_tags:
       qx: 1,
       qy: 0,
       qz: 0
+    },
+    {
+      id: 4,
+      size: 0.2286,
+      name: "AT-4"
+    },
+    {
+      id: 5,
+      size: 0.2286,
+      name: "AT-5"
+    },
+    {
+      id: 6,
+      size: 0.2286,
+      name: "AT-6"
     }
   ]
 
